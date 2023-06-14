@@ -1,2 +1,2 @@
 user1
-line from user1
+change by user2
